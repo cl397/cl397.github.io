@@ -1,0 +1,86 @@
+<!-- MAIN -->
+<main class="py-3 mb-3">
+    <div class="container"> 
+      <div class="row">
+     <!-- Col-md-6 --> 
+        <div class="col-md-6">
+        <!-- Google Maps --> 
+          Ö
+          Ö
+         </div> 
+ 
+   <!-- Col-md-6 --> 
+        <div class="col-md-6">
+        <!-- Contact Form -->
+          Ö
+          Ö 
+        </div> 
+ 
+    </div> 
+    <!-- /row --> 
+  </div> 
+  <!-- /container --> 
+</main>
+
+
+_______________________________________________________________________________
+
+  ‘Œ–Ã¿
+
+<h2 class="display-3">
+    Contact me
+  </h2>
+
+<div class="mb-1">
+  <h4>
+    <i class="far fa-envelope"></i>
+    Don't hesitate to contact me
+  </h4>
+</div>
+<h5>
+  Ready for offers and cooperation
+</h5>
+<p class="text-muted">
+  Phone: +1 (0) 000 0000 000 <br>  
+  Email: <a href="#">contact@mail.com</a>
+</p>
+
+
+_________________________________________________________________________
+¬—“¿¬»“‹ œŒ—À≈ </main>
+
+<!-- Input -->
+<form>
+  <div class="row">
+    <!-- Name -->
+    <div class="col-md-6 pb-3">
+      <input type="text" class="form-control input"  
+       name="name" data-form-field="Name"  
+       placeholder="Your Name" required="">
+    </div>
+
+   <!-- Phone -->
+    <div class="col-md-6 pb-3">
+      <input type="tel" class="form-control input"  
+       name="phone" data-form-field="Phone"  
+       placeholder="Phone" required="">
+    </div>
+    <!-- Email -->
+    <div class="col-md-12 pb-3">
+      <input type="email" class="form-control input"  
+       name="email" data-form-field="Email"  
+       placeholder="Email" required="">
+    </div>
+    <!-- Message -->
+    <div class="col-md-12 pb-3">
+      <textarea class="form-control input"  
+       name="message" rows="3" maxlength="6000"  
+       data-form-field="Message" placeholder="Message"  
+       style="resize:none"></textarea>
+    </div>
+    <div class="input-group-btn col-md-12">
+      <button type="submit" class="btn btn-outline-dark  
+       btn-form display-4">Send Message</button>
+    </div>
+  </div>
+</form>

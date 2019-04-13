@@ -1,0 +1,46 @@
+/* Header, footer */
+
+header, footer {
+  background-color: #38b6ff;
+}
+
+h1{
+	color:blue;
+	
+}
+
+#p1{
+	font-size:18px;
+	color:green;
+	font-style:italic;
+    font-family:verdana;
+}
+#p2{
+	font-size:18px;
+	color:red;
+	font-family:arial;
+}
+/*-----menu------*/
+#nav {
+	padding:10px 0  5px 0;
+	list-style-type:none;
+	text-align:center;
+	font-family: Arvo, serif;
+	font-size:22px;
+	text-transform: uppercase;
+}
+#nav li {
+	display:inline;
+}
+#nav a {
+	text-decoration: none;
+	color: #d9dada;
+	padding:5px 10px;
+	font-weight:bold;
+	display:inline-block;
+}
+#nav a:hover{
+	border-radius:20px 5px;
+	background-color:#0066FF;
+	color:#000033;
+}	

@@ -1,0 +1,38 @@
+/* Header, footer */
+
+header, footer {
+  background-color:black;
+}
+/*menu*/
+#nav{
+	padding:10px 0 5px 0;
+	list-style-type:none;
+	font-family:Arvo,serif;
+	font-size:22px;
+	text-align:center;
+	text-transform:uppercase;
+}
+#nav li{
+	display:inline;
+	margin-right:20px;
+}
+#nav a{
+	text-decoration:none;
+	color:#00e5ff;
+	font-weight:bold;
+	display:inline-block;
+}
+a:hover{
+	border-radius:10px 5px;
+	background-color:white;
+	color:#000022;
+}
+h1,h2{
+	text-align: center;
+}
+h1{
+	color: black;
+}
+h2{
+	color: blue;
+}
